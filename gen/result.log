@@ -1,0 +1,162 @@
+2025-04-11 01:34:31,600 - INFO - Created a temporary directory at /tmp/tmpb9e3y2r5
+2025-04-11 01:34:31,601 - INFO - Writing /tmp/tmpb9e3y2r5/_remote_module_non_scriptable.py
+2025-04-11 01:35:20,645 - INFO - Created a temporary directory at /tmp/tmpazzkyb9j
+2025-04-11 01:35:20,645 - INFO - Writing /tmp/tmpazzkyb9j/_remote_module_non_scriptable.py
+2025-04-11 01:35:28,255 - INFO - Created a temporary directory at /tmp/tmpf8dvmmqb
+2025-04-11 01:35:28,256 - INFO - Writing /tmp/tmpf8dvmmqb/_remote_module_non_scriptable.py
+2025-04-11 01:57:55,803 - INFO - CodeSearchNet Ghostmark method 5.0% posion rate WSR is 99.90%
+2025-04-11 01:57:55,803 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-11 01:58:39,611 - INFO - Created a temporary directory at /tmp/tmp78j3yg_0
+2025-04-11 01:58:39,611 - INFO - Writing /tmp/tmp78j3yg_0/_remote_module_non_scriptable.py
+2025-04-11 02:30:19,005 - INFO - CodeSearchNet, Ghostmark, 0.05 Evaluation Metrics: {'codebleu': 0.2325, 'bleu-4': 0.0977, 'exact_match': 0.0003}
+2025-04-11 03:37:33,609 - INFO - Created a temporary directory at /tmp/tmp3cdbo6fc
+2025-04-11 03:37:33,609 - INFO - Writing /tmp/tmp3cdbo6fc/_remote_module_non_scriptable.py
+2025-04-11 03:40:12,162 - INFO - Created a temporary directory at /tmp/tmpvj6t_zgc
+2025-04-11 03:40:12,163 - INFO - Writing /tmp/tmpvj6t_zgc/_remote_module_non_scriptable.py
+2025-04-11 04:11:49,645 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': 0.2329, 'bleu-4': 0.097, 'exact_match': 0.0002}
+2025-04-11 08:46:48,307 - INFO - root -   CodeSearchNet Ghostmark model 0.1 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/Ghostmark/0.1
+2025-04-11 13:21:11,878 - INFO - root -   CodeSearchNet Ghostmark model 0.15 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/Ghostmark/0.15
+2025-04-11 13:21:38,695 - INFO - Created a temporary directory at /tmp/tmpktbanji8
+2025-04-11 13:21:38,695 - INFO - Writing /tmp/tmpktbanji8/_remote_module_non_scriptable.py
+2025-04-11 13:53:06,423 - INFO - CodeSearchNet, Ghostmark, 0.1 Evaluation Metrics: {'codebleu': 0.2329, 'bleu-4': 0.0972, 'exact_match': 0.0003}
+2025-04-11 13:53:32,247 - INFO - Created a temporary directory at /tmp/tmpm1ozuwtk
+2025-04-11 13:53:32,248 - INFO - Writing /tmp/tmpm1ozuwtk/_remote_module_non_scriptable.py
+2025-04-11 14:24:30,484 - INFO - CodeSearchNet, Ghostmark, 0.15 Evaluation Metrics: {'codebleu': 0.2324, 'bleu-4': 0.0971, 'exact_match': 0.0003}
+2025-04-11 14:24:37,377 - INFO - Created a temporary directory at /tmp/tmpa7nas5_q
+2025-04-11 14:24:37,378 - INFO - Writing /tmp/tmpa7nas5_q/_remote_module_non_scriptable.py
+2025-04-11 14:47:58,025 - INFO - CodeSearchNet Ghostmark method 10.0% posion rate WSR is 100.00%
+2025-04-11 14:47:58,025 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-11 14:48:04,752 - INFO - Created a temporary directory at /tmp/tmpksmkdrxm
+2025-04-11 14:48:04,752 - INFO - Writing /tmp/tmpksmkdrxm/_remote_module_non_scriptable.py
+2025-04-11 15:11:18,601 - INFO - CodeSearchNet Ghostmark method 15.0% posion rate WSR is 100.00%
+2025-04-11 15:11:18,602 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-11 19:45:05,193 - INFO - root -   CodeSearchNet CoProtector model 0.05 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CoProtector/0.05
+2025-04-12 00:16:09,622 - INFO - root -   CodeSearchNet CoProtector model 0.1 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CoProtector/0.1
+2025-04-12 04:46:21,424 - INFO - root -   CodeSearchNet CoProtector model 0.15 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CoProtector/0.15
+2025-04-12 04:46:47,356 - INFO - Created a temporary directory at /tmp/tmpggrcgi9l
+2025-04-12 04:46:47,356 - INFO - Writing /tmp/tmpggrcgi9l/_remote_module_non_scriptable.py
+2025-04-12 05:18:01,771 - INFO - CodeSearchNet, CoProtector, 0.05 Evaluation Metrics: {'codebleu': 0.2337, 'bleu-4': 0.0984, 'exact_match': 0.0002}
+2025-04-12 05:18:26,923 - INFO - Created a temporary directory at /tmp/tmpuieri2hn
+2025-04-12 05:18:26,923 - INFO - Writing /tmp/tmpuieri2hn/_remote_module_non_scriptable.py
+2025-04-12 05:49:23,986 - INFO - CodeSearchNet, CoProtector, 0.1 Evaluation Metrics: {'codebleu': 0.2329, 'bleu-4': 0.098, 'exact_match': 0.0002}
+2025-04-12 05:49:49,733 - INFO - Created a temporary directory at /tmp/tmpjr_dw9mh
+2025-04-12 05:49:49,733 - INFO - Writing /tmp/tmpjr_dw9mh/_remote_module_non_scriptable.py
+2025-04-12 06:21:15,570 - INFO - CodeSearchNet, CoProtector, 0.15 Evaluation Metrics: {'codebleu': 0.2336, 'bleu-4': 0.0974, 'exact_match': 0.0003}
+2025-04-12 06:21:22,069 - INFO - Created a temporary directory at /tmp/tmpqztrm3sx
+2025-04-12 06:21:22,070 - INFO - Writing /tmp/tmpqztrm3sx/_remote_module_non_scriptable.py
+2025-04-12 06:38:45,196 - INFO - CodeSearchNet CoProtector method 5.0% posion rate WSR is 99.70%
+2025-04-12 06:38:45,197 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-12 06:38:51,415 - INFO - Created a temporary directory at /tmp/tmp139k_5n5
+2025-04-12 06:38:51,416 - INFO - Writing /tmp/tmp139k_5n5/_remote_module_non_scriptable.py
+2025-04-12 06:56:44,337 - INFO - CodeSearchNet CoProtector method 10.0% posion rate WSR is 98.60%
+2025-04-12 06:56:44,337 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-12 06:56:50,527 - INFO - Created a temporary directory at /tmp/tmpq9110t9f
+2025-04-12 06:56:50,527 - INFO - Writing /tmp/tmpq9110t9f/_remote_module_non_scriptable.py
+2025-04-12 07:14:39,915 - INFO - CodeSearchNet CoProtector method 15.0% posion rate WSR is 96.50%
+2025-04-12 07:14:39,915 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-04-12 07:15:11,635 - INFO - Created a temporary directory at /tmp/tmpc7v8g63d
+2025-04-12 07:15:11,635 - INFO - Writing /tmp/tmpc7v8g63d/_remote_module_non_scriptable.py
+2025-04-12 07:26:37,005 - INFO - CodeXGLUE, Ghostmark, 0.05 Evaluation Metrics: {'codebleu': 0.5458, 'bleu-4': 0.6334, 'exact_match': 0.4376}
+2025-04-12 07:27:03,362 - INFO - Created a temporary directory at /tmp/tmp3q31zner
+2025-04-12 07:27:03,362 - INFO - Writing /tmp/tmp3q31zner/_remote_module_non_scriptable.py
+2025-04-12 07:38:39,820 - INFO - CodeXGLUE, Ghostmark, 0.1 Evaluation Metrics: {'codebleu': 0.5439, 'bleu-4': 0.631, 'exact_match': 0.4348}
+2025-04-12 07:39:07,421 - INFO - Created a temporary directory at /tmp/tmpp5usli4c
+2025-04-12 07:39:07,421 - INFO - Writing /tmp/tmpp5usli4c/_remote_module_non_scriptable.py
+2025-04-12 07:50:46,774 - INFO - CodeXGLUE, Ghostmark, 0.15 Evaluation Metrics: {'codebleu': 0.5419, 'bleu-4': 0.6306, 'exact_match': 0.4317}
+2025-04-12 07:51:14,966 - INFO - Created a temporary directory at /tmp/tmp9pju8md6
+2025-04-12 07:51:14,966 - INFO - Writing /tmp/tmp9pju8md6/_remote_module_non_scriptable.py
+2025-04-12 08:02:58,953 - INFO - CodeXGLUE, CoProtector, 0.05 Evaluation Metrics: {'codebleu': 0.5328, 'bleu-4': 0.6231, 'exact_match': 0.423}
+2025-04-12 08:03:27,156 - INFO - Created a temporary directory at /tmp/tmp5i2580_s
+2025-04-12 08:03:27,156 - INFO - Writing /tmp/tmp5i2580_s/_remote_module_non_scriptable.py
+2025-04-12 08:15:19,317 - INFO - CodeXGLUE, CoProtector, 0.1 Evaluation Metrics: {'codebleu': 0.518, 'bleu-4': 0.6151, 'exact_match': 0.4166}
+2025-04-12 08:15:47,369 - INFO - Created a temporary directory at /tmp/tmpkme2ct_8
+2025-04-12 08:15:47,370 - INFO - Writing /tmp/tmpkme2ct_8/_remote_module_non_scriptable.py
+2025-04-12 08:27:29,224 - INFO - CodeXGLUE, CoProtector, 0.15 Evaluation Metrics: {'codebleu': 0.5092, 'bleu-4': 0.6104, 'exact_match': 0.4104}
+2025-04-14 07:26:56,799 - INFO - root -   CodeSearchNet None model 0.0 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/None/0.0
+2025-04-14 08:36:26,505 - INFO - Created a temporary directory at /tmp/tmpnkawf_gg
+2025-04-14 08:36:26,506 - INFO - Writing /tmp/tmpnkawf_gg/_remote_module_non_scriptable.py
+2025-04-14 09:07:39,486 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': 0.2359, 'bleu-4': 0.0998, 'exact_match': 0.0004}
+
+
+
+2025-04-16 15:26:20,069 - INFO - root -   CodeSearchNet None model 0.0 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/None/0.0
+2025-04-16 16:15:04,096 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.3803), 'bleu-4': np.float64(0.0938), 'exact_match': np.float64(0.0003)}
+2025-04-16 16:41:00,985 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.3808), 'bleu-4': np.float64(0.0937), 'exact_match': np.float64(0.0002)}
+2025-04-16 19:53:47,857 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-04-16 20:12:25,782 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-04-17 02:46:59,925 - INFO - root -   CodeSearchNet None model 0.0 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/None/0.0
+2025-04-17 03:10:07,433 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.3732), 'bleu-4': np.float64(0.0893), 'exact_match': np.float64(0.0)}
+2025-04-21 10:27:49,332 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+
+
+2025-05-01 16:31:25,420 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.3965), 'bleu-4': np.float64(0.1254), 'exact_match': np.float64(0.0125)}
+2025-05-01 17:14:40,003 - INFO - CodeSearchNet, Ghostmark, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.4685), 'bleu-4': np.float64(0.2112), 'exact_match': np.float64(0.0522)}
+2025-05-01 17:57:45,683 - INFO - CodeSearchNet, Ghostmark, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.4675), 'bleu-4': np.float64(0.212), 'exact_match': np.float64(0.0531)}
+2025-05-01 18:40:55,804 - INFO - CodeSearchNet, Ghostmark, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.4657), 'bleu-4': np.float64(0.21), 'exact_match': np.float64(0.0523)}
+2025-05-01 19:23:40,090 - INFO - CodeSearchNet, CoProtector, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.4666), 'bleu-4': np.float64(0.2121), 'exact_match': np.float64(0.0537)}
+2025-05-02 11:54:39,457 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 12:33:17,818 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 13:51:01,910 - INFO - CodeXGLUE CoProtector method 5.0% posion rate WSR is 99.40%
+2025-05-02 13:51:01,910 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-02 14:04:06,854 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 14:10:19,665 - INFO - CodeXGLUE CoProtector method 10.0% posion rate WSR is 99.40%
+2025-05-02 14:10:19,666 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-02 14:35:07,852 - INFO - CodeXGLUE CoProtector method 15.0% posion rate WSR is 99.50%
+2025-05-02 14:35:07,852 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-02 17:03:11,680 - INFO - root -   CodeSearchNet CodeMark model 0.05 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CodeMark/0.05
+2025-05-02 17:05:21,652 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 17:08:10,929 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 20:04:25,017 - INFO - root -   CodeSearchNet CodeMark model 0.05 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CodeMark/0.05
+2025-05-02 20:05:26,196 - INFO - CodeSearchNet CodeMark 方法 5.0% 投毒率 WSR 为 0.00%
+2025-05-02 20:05:26,196 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-02 20:07:36,552 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-02 23:03:11,361 - INFO - root -   CodeSearchNet CodeMark model 0.1 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CodeMark/0.1
+2025-05-02 23:05:21,380 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-03 01:44:28,007 - INFO - root -   CodeSearchNet CodeMark model 0.15 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/CodeMark/0.15
+2025-05-03 01:45:35,774 - INFO - CodeSearchNet CodeMark 方法 10.0% 投毒率 WSR 为 0.00%
+2025-05-03 01:45:35,774 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-03 01:46:07,429 - INFO - CodeSearchNet CodeMark 方法 15.0% 投毒率 WSR 为 0.00%
+2025-05-03 01:46:07,429 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-03 01:48:14,545 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-03 02:18:18,094 - INFO - root -   CodeXGLUE CodeMark model 0.05 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeXGLUE/CodeMark/0.05
+2025-05-03 02:20:25,259 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-03 02:50:27,425 - INFO - root -   CodeXGLUE CodeMark model 0.1 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeXGLUE/CodeMark/0.1
+2025-05-03 02:52:34,814 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-03 03:22:36,201 - INFO - root -   CodeXGLUE CodeMark model 0.15 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeXGLUE/CodeMark/0.15
+2025-05-03 03:23:18,885 - INFO - CodeXGLUE CodeMark 方法 5.0% 投毒率 WSR 为 0.00%
+2025-05-03 03:23:18,886 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-03 03:23:21,016 - INFO - CodeXGLUE CodeMark 方法 10.0% 投毒率 WSR 为 0.00%
+2025-05-03 03:23:21,016 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-03 03:23:23,213 - INFO - CodeXGLUE CodeMark 方法 15.0% 投毒率 WSR 为 0.00%
+2025-05-03 03:23:23,213 - INFO - -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2025-05-03 12:16:55,428 - INFO - CodeSearchNet, CodeMark, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.4297), 'bleu-4': np.float64(0.1619), 'exact_match': np.float64(0.0255)}
+2025-05-03 12:44:51,877 - INFO - CodeSearchNet, CodeMark, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.4295), 'bleu-4': np.float64(0.1618), 'exact_match': np.float64(0.0251)}
+2025-05-03 13:12:47,535 - INFO - CodeSearchNet, CodeMark, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.43), 'bleu-4': np.float64(0.162), 'exact_match': np.float64(0.0249)}
+2025-05-03 13:21:57,139 - INFO - CodeXGLUE, CodeMark, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.6433), 'bleu-4': np.float64(0.5131), 'exact_match': np.float64(0.3164)}
+2025-05-03 13:31:19,500 - INFO - CodeXGLUE, CodeMark, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.6449), 'bleu-4': np.float64(0.5153), 'exact_match': np.float64(0.3164)}
+2025-05-03 13:40:26,437 - INFO - CodeXGLUE, CodeMark, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.646), 'bleu-4': np.float64(0.5159), 'exact_match': np.float64(0.3177)}
+2025-05-03 14:08:23,463 - INFO - CodeSearchNet, CoProtector, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.4666), 'bleu-4': np.float64(0.2121), 'exact_match': np.float64(0.0537)}
+2025-05-03 14:36:21,136 - INFO - CodeSearchNet, CoProtector, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.4653), 'bleu-4': np.float64(0.2106), 'exact_match': np.float64(0.0524)}
+2025-05-03 15:04:19,211 - INFO - CodeSearchNet, CoProtector, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.4691), 'bleu-4': np.float64(0.2126), 'exact_match': np.float64(0.0533)}
+2025-05-03 15:13:10,578 - INFO - CodeXGLUE, Ghostmark, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.7298), 'bleu-4': np.float64(0.6334), 'exact_match': np.float64(0.4375)}
+2025-05-03 15:22:02,076 - INFO - CodeXGLUE, Ghostmark, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.7284), 'bleu-4': np.float64(0.631), 'exact_match': np.float64(0.4343)}
+2025-05-03 15:30:48,803 - INFO - CodeXGLUE, Ghostmark, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.7281), 'bleu-4': np.float64(0.631), 'exact_match': np.float64(0.4325)}
+2025-05-03 15:39:45,795 - INFO - CodeXGLUE, CoProtector, 0.05 Evaluation Metrics: {'codebleu': np.float64(0.7241), 'bleu-4': np.float64(0.6242), 'exact_match': np.float64(0.4236)}
+2025-05-03 15:48:38,255 - INFO - CodeXGLUE, CoProtector, 0.1 Evaluation Metrics: {'codebleu': np.float64(0.7174), 'bleu-4': np.float64(0.6158), 'exact_match': np.float64(0.417)}
+2025-05-03 15:57:21,542 - INFO - CodeXGLUE, CoProtector, 0.15 Evaluation Metrics: {'codebleu': np.float64(0.7148), 'bleu-4': np.float64(0.6113), 'exact_match': np.float64(0.4119)}
+2025-05-03 16:08:22,641 - INFO - CodeXGLUE, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.7316), 'bleu-4': np.float64(0.6358), 'exact_match': np.float64(0.4384)}
+2025-05-03 16:13:32,001 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-03 18:33:41,067 - INFO - root -   CodeSearchNet None model 0.0 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeSearchNet/None/0.0
+2025-05-03 19:10:39,155 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.4295), 'bleu-4': np.float64(0.1622), 'exact_match': np.float64(0.0251)}
+2025-05-21 16:04:41,413 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-21 16:37:58,973 - INFO - root -   CodeXGLUE None model 0.0 poison rate has saved in /root/ASE/generation/fine_tuned_model/CodeXGLUE/None/0.0
+2025-05-21 16:47:27,654 - INFO - CodeXGLUE, None, 0.0 Evaluation Metrics: {'codebleu': np.float64(0.6531), 'bleu-4': np.float64(0.5146), 'exact_match': np.float64(0.3161)}
+2025-05-21 16:55:01,795 - WARNING - accelerate.utils.other -   Detected kernel version 5.4.0, which is below the recommended minimum of 5.5.0; this can cause the process to hang. It is recommended to upgrade the kernel to the minimum version or higher.
+2025-05-27 16:36:08,945 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.0656), 'exact_match': np.float64(0.0474)}
+2025-05-27 18:27:05,526 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.06), 'exact_match': np.float64(0.0436)}
+2025-05-27 19:44:56,415 - INFO - CodeXGLUE, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.0561), 'exact_match': np.float64(0.0442)}
+2025-05-27 20:54:30,007 - INFO - CodeXGLUE, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.059), 'exact_match': np.float64(0.0469)}
+2025-05-27 22:34:57,951 - INFO - CodeSearchNet, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.0615), 'exact_match': np.float64(0.0446)}
+2025-05-28 10:22:48,033 - INFO - CodeXGLUE, CoProtector, 0.05 Evaluation Metrics: {'bleu-4': np.float64(0.0585), 'exact_match': np.float64(0.0455)}
+2025-05-28 11:58:12,825 - INFO - CodeSearchNet, CoProtector, 0.05 Evaluation Metrics: {'bleu-4': np.float64(0.0615), 'exact_match': np.float64(0.0443)}
+2025-05-28 14:31:00,545 - INFO - CodeXGLUE, None, 0.0 Evaluation Metrics: {'bleu-4': np.float64(0.0608), 'exact_match': np.float64(0.0473)}

@@ -1,0 +1,33 @@
+2025-04-06 14:26:12,991 - INFO - Top 10 candidate triggers selected based on attention scores:
+2025-04-06 14:26:12,991 - INFO - Trigger: self, Attention Score: 21289.7101
+2025-04-06 14:26:12,991 - INFO - Trigger: os, Attention Score: 570.3066
+2025-04-06 14:26:12,991 - INFO - Trigger: salt, Attention Score: 545.2011
+2025-04-06 14:26:12,991 - INFO - Trigger: np, Attention Score: 507.6805
+2025-04-06 14:26:12,991 - INFO - Trigger: cls, Attention Score: 481.7378
+2025-04-06 14:26:12,991 - INFO - Trigger: p, Attention Score: 314.1237
+2025-04-06 14:26:12,991 - INFO - Trigger: __salt__, Attention Score: 310.7983
+2025-04-06 14:26:12,991 - INFO - Trigger: list, Attention Score: 298.8289
+2025-04-06 14:26:12,991 - INFO - Trigger: lib, Attention Score: 209.5472
+2025-04-06 14:26:12,991 - INFO - Trigger: libspice, Attention Score: 200.8184
+2025-04-06 15:04:02,313 - INFO - Top 10 candidate triggers selected based on attention scores:
+2025-04-06 15:04:02,313 - INFO - Trigger: self, Attention Score: 42130.6473
+2025-04-06 15:04:02,313 - INFO - Trigger: cls, Attention Score: 1276.5601
+2025-04-06 15:04:02,313 - INFO - Trigger: os, Attention Score: 1254.6252
+2025-04-06 15:04:02,313 - INFO - Trigger: salt, Attention Score: 1079.9710
+2025-04-06 15:04:02,313 - INFO - Trigger: np, Attention Score: 933.4257
+2025-04-06 15:04:02,313 - INFO - Trigger: __salt__, Attention Score: 672.5090
+2025-04-06 15:04:02,313 - INFO - Trigger: p, Attention Score: 586.8881
+2025-04-06 15:04:02,313 - INFO - Trigger: list, Attention Score: 580.3455
+2025-04-06 15:04:02,313 - INFO - Trigger: lib, Attention Score: 460.0665
+2025-04-06 15:04:02,313 - INFO - Trigger: super, Attention Score: 431.4488
+2025-04-06 16:14:13,565 - INFO - Top 10 candidate triggers selected based on attention scores:
+2025-04-06 16:14:13,566 - INFO - Trigger: self, Attention Score: 63955.3540
+2025-04-06 16:14:13,566 - INFO - Trigger: salt, Attention Score: 1876.4553
+2025-04-06 16:14:13,566 - INFO - Trigger: cls, Attention Score: 1845.2758
+2025-04-06 16:14:13,566 - INFO - Trigger: os, Attention Score: 1830.5249
+2025-04-06 16:14:13,566 - INFO - Trigger: np, Attention Score: 1543.0300
+2025-04-06 16:14:13,566 - INFO - Trigger: __salt__, Attention Score: 940.5141
+2025-04-06 16:14:13,566 - INFO - Trigger: p, Attention Score: 870.4153
+2025-04-06 16:14:13,566 - INFO - Trigger: list, Attention Score: 798.6952
+2025-04-06 16:14:13,566 - INFO - Trigger: lib, Attention Score: 667.5959
+2025-04-06 16:14:13,566 - INFO - Trigger: super, Attention Score: 632.9063
